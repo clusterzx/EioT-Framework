@@ -12,6 +12,36 @@ Features:
 - Easy to debug
 - more to come....
 
+# Disclaimer
+
+This project is in work - there is no authentication yet nor a documentation.
+Till now it is rather simple and much Spaghetti code :D
+
+## Installation
+
+Use the node package manager [npm](https://www.npmjs.com/package/npm) to install the package.
+
+```bash
+npm install eiot-framework
+```
+
+## Setup
+Just change the secret.key and you are good to go.
+Run the server with 
+
+```bash
+npm run devStart
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# Additional Info:
 Use the EioT-Flasher for setting up the ESPs with the firmware of your choice:
 https://github.com/clusterzx/EIoT-Flasher
 
