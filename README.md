@@ -12,8 +12,10 @@ Features:
 - Easy to debug
 - more to come....
 
+Use the EioT-Flasher for setting up the ESPs with the firmware of your choice:
+https://github.com/clusterzx/EIoT-Flasher
+
 Screenshot of GUI:
 [![image.png](https://i.postimg.cc/wv4rhbQ9/image.png)](https://postimg.cc/r0WgTjHH)
 
 [![image.png](https://i.postimg.cc/vTd0LF6F/image.png)](https://postimg.cc/2b2drtw2)
-
