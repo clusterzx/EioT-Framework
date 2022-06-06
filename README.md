@@ -9,6 +9,7 @@ Features:
 - Simple and structured Webinterface
 - Works with custom modules (Simple API)
 - IFTT-Webhook support
+- Temperature and Humidity history for every thermostat icl. Charts of the last 30 entrys
 - Easy to debug
 - more to come....
 
